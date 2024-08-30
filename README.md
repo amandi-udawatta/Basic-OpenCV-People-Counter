@@ -29,20 +29,19 @@ A real-time people counting system using OpenCV, designed to identify and count 
 
 3. **Activate the Virtual Environment:**
    - On macOS/Linux:
-    ```bash
-    source venv/bin/activate
+      ```bash
+      source venv/bin/activate
    - On Windows:
     ```bash
     .\venv\Scripts\activate
 
-4. Install the Required Libraries:
-    
+4. Install the Required Libraries: 
     ```bash
     pip install -r requirements.txt
 
 5. Run the Model:
     ```bash
-    python your_script_name.py
+    python counter.py
 
 ### Authors
 
